@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"model":"item/writable_book","type":"model"},"entries":[{"threshold":10000,"model":{"model":"iasurvival:ia_auto_gen/letter","type":"model"}},{"threshold":10001,"model":{"model":"item/writable_book","type":"model"}}]}}

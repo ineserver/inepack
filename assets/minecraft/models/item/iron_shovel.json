@@ -1,0 +1,1 @@
+{"parent":"minecraft:item/handheld","textures":{"layer0":"minecraft:item/iron_shovel"},"overrides":[{"predicate":{"custom_model_data":10000},"model":"ice_set:ia_auto_gen/ice_shovel"},{"predicate":{"custom_model_data":10001},"model":"item/iron_shovel"}]}

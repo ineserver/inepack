@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"model","model":"item/netherite_sword"},"entries":[{"threshold":10000,"model":{"type":"model","model":"bettermobs:ia_auto_gen/amethyst_netherite_sword"}},{"threshold":10001,"model":{"type":"model","model":"item/netherite_sword"}}]}}
